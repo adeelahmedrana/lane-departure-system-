@@ -1,0 +1,2 @@
+# lane-departure-system-
+This is Project 2 of Computer Vision Grad Course Offered at ITU. When we drive, we use our eyes to decide where to go. The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle. Naturally, one of the first things that is required for developing a self-driving car is to automatically detect lane lines using an algorithm. In this assignment we are going to learn about the implementation of a very important component of self-driving car called lane detection. 
